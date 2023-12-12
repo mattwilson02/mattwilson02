@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Matt. I am a full stack developer from the Isle of Man. 👋
 
 <!--
 **mattwilson02/mattwilson02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
