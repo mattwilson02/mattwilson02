@@ -1,5 +1,5 @@
-### Fullstack developer 🖥️
-## Passionate about Bitcoin and Blockchain Technology ⚙️🔋
+## Fullstack developer 🖥️
+### Passionate about Bitcoin and Blockchain Technology ⚙️🔋
 
 <!--
 **mattwilson02/mattwilson02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
