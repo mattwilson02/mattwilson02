@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Azure
 - ⚡ Fun fact: I love endurance training and lifting 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattwilson02&layout=compact&langs_count=9&theme=dark%22/%3E)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattwilson02&layout=compact&langs_count=8&theme=dark%22/%3E)
