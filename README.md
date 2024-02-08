@@ -1,5 +1,5 @@
 ## Fullstack developer 🖥️
-### Passionate about Bitcoin and Blockchain Technology ⚙️🔋
+### Passionate about Bitcoin and Freedom tech ⚙️🔋
 
 - 🔭 I’m currently working on a project built on top of the Nostr protocol
 - 🔐 I'm also working for a Wealth Management firm
