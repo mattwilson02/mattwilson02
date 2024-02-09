@@ -1,7 +1,7 @@
 ## Fullstack developer 🖥️
 ### Passionate about Bitcoin and Freedom tech ⚙️🔋
 
-- 🔭 I’m currently working on a project built on top of the Nostr protocol
+- 🔭 I'm currently building a FOSS PWA certification system that runs on NOSTR
 - 🔐 I'm also working for a Wealth Management firm
 - 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love endurance training and lifting 
