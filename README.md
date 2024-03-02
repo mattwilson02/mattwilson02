@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love endurance training and lifting 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattwilson02&layout=compact&langs_count=6&theme=dark%22/%3E)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattwilson02&layout=compact&langs_count=4&theme=dark%22/%3E)
