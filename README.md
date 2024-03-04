@@ -1,7 +1,7 @@
 ## Full Stack developer 🖥️
 ### Passionate about Bitcoin and Freedom tech ⚙️🔋
 
-[NOSTR Account](primal.net/p/npub1m830l0zyglanr33mdhv4mewplmwwqffhezckvl8l9fzl4z2w5u9sxvl7yk)
+[NOSTR Account](https://primal.net/p/npub1m830l0zyglanr33mdhv4mewplmwwqffhezckvl8l9fzl4z2w5u9sxvl7yk)
 
 - 🦞 I'm currently building a FOSS PWA certification system that runs on NOSTR
 - 💰 I'm also working for a Wealth Management firm
