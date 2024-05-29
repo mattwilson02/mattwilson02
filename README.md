@@ -5,7 +5,7 @@
 
 🦞 I'm currently building a FOSS PWA certification system that runs on NOSTR
 
-📚 I'm currently studying through the Azure 900 Fundamentals course
+📚 I'm currently studying the Azure 900 Fundamentals course
 
 ⚡ Fun fact: I love running and lifting 
 
