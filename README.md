@@ -8,5 +8,3 @@
 📚 I'm currently studying the Azure 900 Fundamentals course
 
 ⚡ Fun fact: I love running and lifting 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattwilson02&layout=compact&langs_count=6&theme=dark%22/%3E)
