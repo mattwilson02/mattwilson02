@@ -4,7 +4,7 @@
 
 🦞 I'm currently building a FOSS PWA certification system called [Lobstr](https://github.com/Project-LOBSTR/foundation-app) that runs on NOSTR 
 
-👨‍💻 I'm also working for a Wealth Management Firm full time as a Fullstack Developer
+👨‍💻 I'm also working full time for a Wealth Management Firm as a Fullstack Developer
 
 📚 I am preparing for the Azure 204 Developer Associate Certification
 
