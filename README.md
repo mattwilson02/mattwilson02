@@ -14,6 +14,6 @@
 
 ### Fun facts
 
-⚡️ I am passionate about Bitcoin and Freedom tech
+⚡️ I am passionate about Bitcoin and freedom tech
 
 🏃 I like to lift heavy and run far
