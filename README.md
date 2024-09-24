@@ -6,8 +6,7 @@
 
 👨‍💻 I'm also working full time for a Wealth Management Firm as a Fullstack Developer
 
-📚 I am preparing for the Azure 204 Developer Associate Certification
-
+📚 I am preparing for the Google Cloud Engineer certification
 ### Certifications
 
 ✅ Microsoft Certified: Azure Fundamentals
