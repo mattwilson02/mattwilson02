@@ -1,5 +1,11 @@
 ## Full Stack developer 🖥️ 
 
+⚡️ Languages: Typescript
+🚀 Frontend: Next.js | React Native + Expo
+🎢 Backend: Node.js | Prisma ORM | PostgreSQL
+🚕 API: Graphql | REST
+🚧 Other: Azure | Tailwind
+
 ### What I'm up to
 
 🦞 I'm currently building a FOSS PWA certification system called [Lobstr](https://github.com/Project-LOBSTR/foundation-app) that runs on NOSTR 
