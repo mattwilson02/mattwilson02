@@ -4,9 +4,9 @@
 
 🚀 Frontend: Next.js | React Native + Expo
 
-🎢 Backend: Node.js | Prisma ORM | PostgreSQL
+🎢 Backend: Node.js | Prisma ORM
 
-🚕 API: Graphql | REST
+🚕 API: REST
 
 🚧 Other: Azure | Tailwind
 
