@@ -8,7 +8,7 @@
 
 🚕 API: REST
 
-🚧 Other: Azure | Tailwind
+🚧 Other: Azure | Tailwind | Nostr
 
 ### What I'm up to
 
