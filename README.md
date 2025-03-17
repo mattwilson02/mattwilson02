@@ -16,10 +16,9 @@
 
 - I'm also working full time for a Wealth Management Firm as a Fullstack Developer
 
-- I'm preparing for the Azure Developer Associate certification
-
 - I'm learning the Rust programming language 🦀
 ### Certifications
 
 ✅ Microsoft Certified: Azure Fundamentals
+
 ✅ Microsoft Certified: Azure Developer Associate
