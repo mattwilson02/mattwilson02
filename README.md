@@ -12,11 +12,9 @@
 
 ### What I'm up to
 
-- I'm currently building a FOSS PWA certification system called [Lobstr](https://github.com/Project-LOBSTR/foundation-app) that runs on NOSTR 
+- I'm working full time for a Wealth Management Firm as a Fullstack Developer
+- I'm also building a software house that applies technology and engineering to help users engage with risk through human action
 
-- I'm also working full time for a Wealth Management Firm as a Fullstack Developer
-
-- I'm learning the Rust programming language 🦀
 ### Certifications
 
 ✅ Microsoft Certified: Azure Fundamentals
