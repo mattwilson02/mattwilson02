@@ -1,12 +1,12 @@
 ## Full Stack developer 🖥️ 
 
-⚡️ Languages: Typescript
+⚡️ Languages: Typescript | .NET
 
 🚀 Frontend: Next.js | React Native + Expo
 
 🎢 Backend: NestJS | Prisma ORM
 
-🚕 API: REST
+🚕 API: REST | GraphQL
 
 🚧 Other: Azure | Docker | EAS
 
