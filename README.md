@@ -2,7 +2,7 @@
 
 ⚡️ Languages: Typescript | .NET
 
-🚀 Frontend: Next.js | React Native + Expo
+🚀 Frontend: Next.js | Svelte | React Native + Expo
 
 🎢 Backend: NestJS | Prisma ORM
 
