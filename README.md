@@ -1,9 +1,12 @@
-## Senior Full Stack Engineer | TypeScript · NextJS · NestJS · Python · Azure
-
-### What I'm building
-
-Two AI-powered platforms: Imperium — a multi-service knowledge management system with a cost-optimised LLM pipeline, schema-enforced governance, and Claude MCP integrations; and Athena — a personal knowledge graph with hybrid vector/graph retrieval (ChromaDB, NetworkX), 3D visualisation, and streaming AI chat.
-
-### Certifications
-
-Microsoft Certified: Azure Fundamentals | Microsoft Certified: Azure Developer Associate
+## Hey, I'm Matt 👋
+ 
+Senior full stack engineer. 4 years shipping production web and mobile applications in fintech.
+ 
+**Stack:** TypeScript · Next.js · NestJS · React Native · Python · Flask · Azure · Docker
+ 
+**Currently building:**
+ 
+- **Imperium** — AI knowledge management platform. Multi-service architecture, cost-optimised Haiku → Sonnet → Opus LLM pipeline, schema-enforced governance, Claude MCP integrations. Python/Flask, Docker, n8n, Hetzner. 600+ tests at 93% coverage.
+- **Athena** — AI personal assistant. RAG architecture with hybrid vector/graph retrieval (ChromaDB, NetworkX), 3D force-directed knowledge graph visualisation, streaming AI chat. Python/Flask, Svelte.
+ 
+**Certifications:** Azure Developer Associate · Azure Fundamentals
