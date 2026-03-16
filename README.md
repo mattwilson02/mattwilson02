@@ -1,8 +1,8 @@
-## Senior Full Stack Engineer | TypeScript · NextJS · NestJS · Azure
+## Senior Full Stack Engineer | TypeScript · NextJS · NestJS · Python · Azure
 
-### What I'm up to
+### What I'm current building
 
-Currently building Athena — an AI-powered personal knowledge graph using Python, ChromaDB and the Anthropic API. Open to senior TypeScript contracting work.
+Two AI-powered platforms: Imperium — a multi-service knowledge management system with a cost-optimised LLM pipeline, schema-enforced governance, and Claude MCP integrations; and Athena — a personal knowledge graph with hybrid vector/graph retrieval (ChromaDB, NetworkX), 3D visualization, and streaming AI chat.
 
 ### Certifications
 
