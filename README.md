@@ -1,4 +1,4 @@
-## Senior Full Stack Engineer | TypeScript · NextJS · NestJS · Azure 🖥️ 
+## Senior Full Stack Engineer | TypeScript · NextJS · NestJS · Azure
 
 ### What I'm up to
 
