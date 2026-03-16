@@ -2,7 +2,7 @@
 
 ### What I'm current building
 
-Two AI-powered platforms: Imperium — a multi-service knowledge management system with a cost-optimised LLM pipeline, schema-enforced governance, and Claude MCP integrations; and Athena — a personal knowledge graph with hybrid vector/graph retrieval (ChromaDB, NetworkX), 3D visualization, and streaming AI chat.
+Two AI-powered platforms: Imperium — a multi-service knowledge management system with a cost-optimised LLM pipeline, schema-enforced governance, and Claude MCP integrations; and Athena — a personal knowledge graph with hybrid vector/graph retrieval (ChromaDB, NetworkX), 3D visualisation, and streaming AI chat.
 
 ### Certifications
 
