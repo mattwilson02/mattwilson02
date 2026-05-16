@@ -74,6 +74,13 @@ Full-stack property management platform. NestJS API, Next.js dashboard, React Na
 <tr>
 <td width="50%">
 
+
+
+#### 🧠 [Athena](https://github.com/mattwilson02/athena)
+Personal AI built on a living knowledge graph. Conflict detection, adaptive response modes, accountability tracking. Streaming chat with graph visualisation.
+
+`Python` `Flask` `ChromaDB` `NetworkX` `Svelte`
+
 #### ⚡ Imperium
 AI knowledge management platform for businesses. Cost-optimised LLM routing, automated ingestion from Gmail, Drive, and Calendar. 600+ tests at 93% coverage.
 
@@ -81,11 +88,6 @@ AI knowledge management platform for businesses. Cost-optimised LLM routing, aut
 
 </td>
 <td width="50%">
-
-#### 🧠 Athena
-Personal AI built on a living knowledge graph. Conflict detection, adaptive response modes, accountability tracking. Streaming chat with graph visualisation.
-
-`Python` `Flask` `ChromaDB` `NetworkX` `Svelte`
 
 </td>
 </tr>
