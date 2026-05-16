@@ -81,13 +81,15 @@ Personal AI built on a living knowledge graph. Conflict detection, adaptive resp
 
 `Python` `Flask` `ChromaDB` `NetworkX` `Svelte`
 
+
+
+</td>
+<td width="50%">
+
 #### ⚡ Imperium
 AI knowledge management platform for businesses. Cost-optimised LLM routing, automated ingestion from Gmail, Drive, and Calendar. 600+ tests at 93% coverage.
 
 `Python` `Flask` `Docker` `n8n` `Claude MCP`
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
