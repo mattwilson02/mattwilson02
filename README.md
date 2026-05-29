@@ -2,13 +2,13 @@
 
 # Hey, I'm Matt 👋
 
-**Senior Full Stack & AI Engineer**
+**Full Stack Engineer**
 
-4 years shipping production software — investment platforms, fintech mobile apps, and AI tooling.
+4 years shipping production-ready software — investment platforms, fintech mobile apps, and financial tooling.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mattwilson02.github.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattwilson02.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-wilson-16a671212/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattwilsonbusiness25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilson.mjaw@gmail.com)
 
 </div>
 
@@ -18,18 +18,14 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
@@ -64,32 +60,28 @@ Autonomous AI developer agent. Zero-config sprint runner that reads your codebas
 </td>
 <td width="50%">
 
-#### 🏠 [LeaseLink](https://github.com/mattwilson02/leaselink)
-Full-stack property management platform. NestJS API, Next.js dashboard, React Native tenant app. Built entirely with Ralph.
+#### ☕ [Tamp](https://github.com/mattwilson02/tamp)
+Gamified social learning platform for coffee craft. Animated POV brewing guides, attempt tracking with peer-review scoring, and a barista rank progression system.
 
-`TypeScript` `NestJS` `Next.js` `React Native` `Stripe`
+`TypeScript` `React Native` `Expo` `NestJS` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-
-
 #### 🧠 [Athena](https://github.com/mattwilson02/athena)
-Personal AI built on a living knowledge graph. Conflict detection, adaptive response modes, accountability tracking. Streaming chat with graph visualisation.
+Personal AI MCP server built on a living knowledge graph. Conflict detection, adaptive response modes, and accountability tracking — giving Claude full context of your life in every conversation.
 
-`Python` `Flask` `ChromaDB` `NetworkX` `Svelte`
-
-
+`Python` `Flask` `ChromaDB` `NetworkX` `Claude MCP`
 
 </td>
 <td width="50%">
 
-#### ⚡ Imperium
-AI knowledge management platform for businesses. Cost-optimised LLM routing, automated ingestion from Gmail, Drive, and Calendar. 600+ tests at 93% coverage.
+#### 🏠 [LeaseLink](https://github.com/mattwilson02/leaselink)
+Full-stack property management platform. NestJS API, Next.js dashboard, React Native tenant app. Built end-to-end with Ralph as a portfolio piece.
 
-`Python` `Flask` `Docker` `n8n` `Claude MCP`
+`TypeScript` `NestJS` `Next.js` `React Native` `Stripe`
 
 </td>
 </tr>
@@ -101,6 +93,7 @@ AI knowledge management platform for businesses. Cost-optimised LLM routing, aut
 
 [![Azure Developer Associate](https://img.shields.io/badge/Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MattWilson-2787/8C0C35F61CF72BC1?sharingId=D6137FDC1D04120F)
 [![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MattWilson-2787/A34295880A1E17D?sharingId=D6137FDC1D04120F)
+![AZ-104 In Progress](https://img.shields.io/badge/Azure_Administrator_Associate-in_progress-orange?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
