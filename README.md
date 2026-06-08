@@ -60,10 +60,10 @@ Autonomous AI developer agent. Zero-config sprint runner that reads your codebas
 </td>
 <td width="50%">
 
-#### ☕ [Tamp](https://github.com/mattwilson02/tamp)
-Gamified social learning platform for coffee craft. Animated POV brewing guides, attempt tracking with peer-review scoring, and a barista rank progression system.
+#### ☁️ [Meridian Azure](https://github.com/mattwilson02/meridian-azure)
+Infrastructure-as-Code scenario for a fictional retail company's full Azure migration. Bicep modules covering identity, governance, compute, networking, and monitoring across a multi-workload environment. Study companion for AZ-104.
 
-`TypeScript` `React Native` `Expo` `NestJS` `PostgreSQL`
+`Bicep` `Azure` `IaC` `AZ-104`
 
 </td>
 </tr>
