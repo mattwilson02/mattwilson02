@@ -6,7 +6,7 @@
 
 4 years shipping production-ready software — investment platforms, fintech mobile apps, and financial tooling.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mattwilson02.github.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattwilson02.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mattwilson.tech-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattwilson.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-wilson-16a671212/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilson.mjaw@gmail.com)
 
