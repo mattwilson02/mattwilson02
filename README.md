@@ -4,12 +4,11 @@
 
 **Independent software engineer · Isle of Man**
 
-Bespoke software and automations. You know what the business needs built —
-I take the idea the rest of the way, and carry the risk of getting there.
+Bespoke software and automations. You know what the business needs — I take the idea the rest of the way.
 
 [![Site](https://img.shields.io/badge/mattwilson.tech-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattwilson.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-wilson-16a671212/)
-[![Book a call](https://img.shields.io/badge/Book_a_call-171717?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/wilson-mjaw/discovery)
+[![Book a call](https://img.shields.io/badge/Book_a_call-171717?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://https://calendly.com/mattwilsontech/discovery)
 
 </div>
 
