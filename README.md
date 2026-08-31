@@ -8,7 +8,7 @@ Bespoke software and automations. You know what the business needs — I take th
 
 [![Site](https://img.shields.io/badge/mattwilson.tech-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattwilson.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-wilson-16a671212/)
-[![Book a call](https://img.shields.io/badge/Book_a_call-171717?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://https://calendly.com/mattwilsontech/discovery)
+[![Book a call](https://img.shields.io/badge/Book_a_call-171717?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/mattwilsontech/discovery)
 
 </div>
 
@@ -51,11 +51,11 @@ Personal knowledge graph with an AI interface. Local-first markdown vault; the M
 </td>
 <td width="50%">
 
-#### 🇪🇸 [Fluencia](https://github.com/mattwilson02/fluencia)
+#### 🏗️ [IoM CIS](https://github.com/mattwilson02/iom-cis)
 
-An MCP server that turns Claude into a structured language tutor — spaced repetition, CEFR curriculum, real progress tracking. No app; the model is the interface.
+Isle of Man Construction Industry Scheme compliance — subcontractor register, certificate expiry watch, deduction calculation and the C11/C35/C14 paperwork. Xero, Sage and QuickBooks wire CIS to HMRC, which doesn't apply on the Island.
 
-`TypeScript` · `MCP` · `SQLite`
+`TypeScript` · `Next.js` · `Prisma` · `Postgres`
 
 </td>
 </tr>
