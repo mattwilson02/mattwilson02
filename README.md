@@ -51,11 +51,11 @@ Personal knowledge graph with an AI interface. Local-first markdown vault; the M
 </td>
 <td width="50%">
 
-#### 🏗️ [IoM CIS](https://github.com/mattwilson02/iom-cis)
+#### 🇪🇸 [Fluencia](https://github.com/mattwilson02/fluencia)
 
-Isle of Man Construction Industry Scheme compliance — subcontractor register, certificate expiry watch, deduction calculation and the C11/C35/C14 paperwork. Xero, Sage and QuickBooks wire CIS to HMRC, which doesn't apply on the Island.
+MCP server that turns Claude into a structured Spanish tutor. Spaced repetition over a CEFR curriculum, with progress tracked between sessions so the model teaches from where you actually are, not where the conversation started.
 
-`TypeScript` · `Next.js` · `Prisma` · `Postgres`
+`Python` · `MCP` · `SQLite`
 
 </td>
 </tr>
